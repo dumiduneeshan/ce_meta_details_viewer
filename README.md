@@ -67,14 +67,14 @@ Whether you’re an SEO specialist, web developer or content strategist, this ex
 ---
 
 ## File Structure
-meta-details-viewer/
-├── manifest.json
-├── popup.html
-├── popup.js
-├── content.js
-├── icon-16x16.png
-├── icon-48x48.png
-└── icon-128x128.png
+meta-details-viewer/ <br>
+├── manifest.json <br>
+├── popup.html <br>
+├── popup.js <br>
+├── content.js <br>
+├── icon-16x16.png <br>
+├── icon-48x48.png <br>
+└── icon-128x128.png <br>
 
 
 - **manifest.json** – Extension metadata, permissions and icons  

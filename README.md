@@ -91,7 +91,7 @@ meta-details-viewer/ <br>
 
 ## Support & Contribution
 
-Found a bug or have a feature request? Please open an issue on the [GitHub repository](#) or visit the Chrome Web Store support page.
+Found a bug or have a feature request? Please open an issue on the [GitHub repository]([https://github.com/dumiduneeshan/ce_meta_details_viewer/]) or visit the Chrome Web Store support page.
 
 ---
 
